@@ -9,7 +9,7 @@ name: Markus
 description: Summer 2021 DREU Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: markusNarten.github.io/images/me.png
+avatar: https://markusNarten.github.io/images/me.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: markusNarten.github.io/images/me.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: yourmail@mail.com
+  email: markus.narten@gmail.com
   facebook:
   flickr:
   rss: # just type anything here for a working RSS icon
