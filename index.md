@@ -8,13 +8,13 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-name: Markus Narten
+Markus Narten
 
-School: Elon University
+Elon University
 
 Rising Senior, Computer Science Major
 
-email: markus.narten@gmail.com
+markus.narten@gmail.com
 
 ## About My Mentor
 
