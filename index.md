@@ -12,7 +12,7 @@ Markus Narten
 
 Elon University
 
-Rising Senior, Computer Science Major
+Rising Senior, Computer Science Major, expected graduation: Fall 2022
 
 markus.narten@gmail.com
 
@@ -34,7 +34,7 @@ areas of research:
 
 ## About My Project
 
-Project description goes here.
+The goal of the project is to help improve the Clew app, which helps with navigation for the blind and visually impaired. I additionally want to learn more about research to help figure out if continuing on into graduate research is the right decision for me.
 
 [My Final Report](files/finalreport.pdf)
 
