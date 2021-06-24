@@ -9,13 +9,28 @@ title: Summer 2020 DREU Project Site
 ## About Me
 
 name: Markus Narten
+
 School: Elon University
+
 Rising Senior, Computer Science Major
+
 email: markus.narten@gmail.com
 
 ## About My Mentor
 
-Mentor info goes here.
+Paul Ruvolo
+
+Olin College department of Computer Science
+
+areas of research: 
+
+  Machine Learning
+
+  Robotics
+
+  Computer Vision
+  
+[website link](http://occam.olin.edu/)
 
 ## About My Project
 
